@@ -3,8 +3,7 @@
 An end-to-end analytics project for a fictional Egyptian pharmacy chain: four raw source files, a SQL Server data warehouse (Galaxy Schema), and a five-page Power BI dashboard, with a written management report on profitability, suppliers, inventory, customers and marketing.
 
 > **Note:** all source data is synthetic. It was generated to include realistic business effects, such as the EGP devaluation in 2024 and Ramadan/Eid seasonality.
-
-![Dashboard preview](image/profit.png)
+\\
 
 **Management report:** [NileCare_Business_Performance_Report.pdf](NileCare_Business_Performance_Report.pdf)
 
