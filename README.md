@@ -108,7 +108,7 @@ Screenshots (the full five pages are in the `.pbix` file):
 
 **Profitability Health**
 
-![Profitability Health](image/profit.png)
+![Profitability Health](image/Profit.png)
 
 **Inventory & Stock Risk**
 
